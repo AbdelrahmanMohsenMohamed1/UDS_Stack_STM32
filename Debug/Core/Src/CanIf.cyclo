@@ -1,0 +1,6 @@
+../Core/Src/CanIf.c:20:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+../Core/Src/CanIf.c:34:6:CanIf_Transmit	7
+../Core/Src/CanIf.c:65:6:CanIf_Receive	20
+../Core/Src/CanIf.c:103:6:CanIf_setCallback	2
+../Core/Src/CanIf.c:110:6:CanIf_setNmTxCallback	2
+../Core/Src/CanIf.c:116:6:CanIf_setNmRxCallback	2

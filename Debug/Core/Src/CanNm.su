@@ -1,0 +1,9 @@
+../Core/Src/CanNm.c:33:6:CanNm_Sleep	8	static
+../Core/Src/CanNm.c:77:6:CanNm_Init	8	static
+../Core/Src/CanNm.c:98:6:CanNm_MainFunction	8	static
+../Core/Src/CanNm.c:346:6:CanNm_RxIndication	4	static
+../Core/Src/CanNm.c:354:6:CanNm_NetworkRelease	8	static
+../Core/Src/CanNm.c:365:6:CanNm_TimeOut	16	static
+../Core/Src/CanNm.c:381:6:CanNm_TxConfirmation	8	static
+../Core/Src/CanNm.c:389:6:CanNm_setTxCallback	16	static
+../Core/Src/CanNm.c:395:6:CanNm_Transmit	4	static
